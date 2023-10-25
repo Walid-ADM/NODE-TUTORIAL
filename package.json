@@ -1,0 +1,21 @@
+{
+  "name": "node_smilga",
+  "version": "1.0.0",
+  "description": "A node js tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/walidadmam/Documents/GitHub/desktop-tutorial"
+  },
+  "keywords": [
+    "ndsmlg"
+  ],
+  "author": "Walid Admam",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
